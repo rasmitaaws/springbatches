@@ -1,0 +1,8 @@
+net\petrikainulainen\spring\batch\StudentDTO.class
+net\petrikainulainen\spring\batch\SpringBatchExampleJobConfig.class
+net\petrikainulainen\spring\batch\SpringBatchStepListener.class
+net\petrikainulainen\spring\batch\SpringBatchExampleApplication.class
+net\petrikainulainen\spring\batch\LoggingItemWriter.class
+net\petrikainulainen\spring\batch\RESTStudentReader.class
+net\petrikainulainen\spring\batch\SpringBatchExampleJobLauncher.class
+net\petrikainulainen\spring\batch\StudentController.class
